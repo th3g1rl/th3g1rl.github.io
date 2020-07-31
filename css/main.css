@@ -1,3 +1,5 @@
+
+ /*font*/
 body {
     margin: 60px auto;
     width: 70%;
@@ -32,16 +34,17 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
+ /*posts*/
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    color: #333
 }
 
 ul.posts li {
     list-style: none;
 }
-
+/*dropdown nav*/
   ul {
   list-style-type: none;
   margin: 0;
@@ -62,6 +65,7 @@ li a:hover {
   background-color: #555;
   color: #008000;
 }
+ /* background color */
 body {
   background-color: hsl(0, 100%, 70%);
   text-align: center;
